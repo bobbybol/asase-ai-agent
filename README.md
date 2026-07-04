@@ -1,2 +1,3 @@
-# asase-ai-agent
-Custom AI agent - can be run with public or local Ollama LLM
+# Asase AI Agent
+
+Custom AI agent - can be run with Google GenAI or local Ollama LLM
